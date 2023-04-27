@@ -10,7 +10,7 @@ export default function Home11() {
 
   return (
     <>
-      <div1>Local test</div>
+      <app1111></app11>
     </>
   );
 }
